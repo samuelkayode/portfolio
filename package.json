@@ -1,0 +1,36 @@
+{
+  "name": "resume",
+  "version": "0.1.0",
+  "private": true,
+  "engines": {
+    "node": "8.12.0",
+    "npm": "6.4.1"
+  },
+  "dependencies": {
+    "react": "^16.4.0",
+    "react-dom": "^16.4.0",
+    "react-scripts": "1.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "ajv": "^6.5.4",
+    "url-parse": "^1.4.3"
+  },
+  "description": "An online resume template in reactjs  \r Instruction to run:-  \r 1)Clone the repo",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samuelkayode/portfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samuelkayode/portfolio/issues"
+  },
+  "homepage": "https://github.com/samuelkayode/portfolio#readme"
+}
