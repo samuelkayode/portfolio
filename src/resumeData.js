@@ -95,7 +95,7 @@ let resumeData = {
     },
     {
       "id":2,
-      "name":"food-place",
+      "name":"plantnet",
       "description":"A landing page for a project I worked on with a couple of people about an app that detects plant diseases",
       "imgurl":"images/portfolio/plantnet.png",
       "url": "https://samuelkayode.github.io/plantnet/"
