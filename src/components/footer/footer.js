@@ -20,7 +20,7 @@ export default class Footer extends Component {
             }
           </ul>
           <ul className="copyright">
-            <li>© Copyright 2019</li>
+            <li>© Copyright 2020</li>
             <li>Made by <a title="Oluwakayode Samuel" href="https://www.linkedin.com/in/samuel-oluwakayode-196445108/">Oluwakayode Samuel</a></li>
           </ul>
         </div>

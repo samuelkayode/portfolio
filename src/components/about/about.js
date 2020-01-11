@@ -37,7 +37,7 @@ export default class About extends Component {
 
                      <div className="columns download">
                      <p>
-                      <a className="button" href="https://drive.google.com/open?id=1uloOJQASvzMZqubjAzd4HGPwbOtUPKUQ"
+                      <a className="button" href="https://drive.google.com/file/d/11Z2YnyN1hplQHXJjxoCIYAc6Vf54EkPA/view?usp=sharing"
                         target="_blank" rel="noopener noreferrer">
                            <i className="fa fa-download"></i>
                            Download Resume

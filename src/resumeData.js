@@ -82,10 +82,26 @@ let resumeData = {
     {
       "id":1,
       "name":"Weather4two",
-      "description":"A weather application that tells you the weather condition in different cities in the world",
+      "description":"A tutorial I worked on that tells you the weather condition in different cities in the world",
       "imgurl":"images/portfolio/phone.png",
       "url": "https://weather4two.herokuapp.com/"
+    },
+    {
+      "id":2,
+      "name":"food-place",
+      "description":"A tutorial I worked on you can use to search for different kinds of food",
+      "imgurl":"images/portfolio/food.png",
+      "url": "https://food-place.herokuapp.com/"
+    },
+    {
+      "id":2,
+      "name":"food-place",
+      "description":"A landing page for a project I worked on with a couple of people about an app that detects plant diseases",
+      "imgurl":"images/portfolio/plantnet.png",
+      "url": "https://samuelkayode.github.io/plantnet/"
     }
+    
+
   
   ],
 }
