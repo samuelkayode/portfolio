@@ -23,7 +23,7 @@
   },
   "devDependencies": {
     "ajv": "^6.5.4",
-    "url-parse": "^1.4.3"
+    "url-parse": "^1.5.2"
   },
   "description": "An online resume template in reactjs  \r Instruction to run:-  \r 1)Clone the repo",
   "main": "index.js",
