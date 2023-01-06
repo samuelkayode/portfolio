@@ -9,7 +9,7 @@
   "dependencies": {
     "react": "^16.4.0",
     "react-dom": "^16.4.0",
-    "react-scripts": "1.1.4",
+    "react-scripts": "5.0.1",
     "heroku": "^7.26.2",
     "serve": "^11.2.0"
   },
